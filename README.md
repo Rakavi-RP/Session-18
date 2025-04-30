@@ -84,6 +84,8 @@ The model was fine-tuned using:
 - Learning rate of 2e-4
 
 
-## License
-
-This model inherits the license of the base Phi-2 model, which is the MIT license. 
+## Images
+The following images are included in the `images` folder:
+- ![example 1](images/sample 1.png)  
+  
+- ![example 2](images/sample 2.png)  
