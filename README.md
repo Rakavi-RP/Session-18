@@ -83,9 +83,11 @@ The model was fine-tuned using:
 - Gradient accumulation of 16 steps
 - Learning rate of 2e-4
 
-
 ## Images
-The following images are included in the `images` folder:
-- ![example 1](images/sample 1.png)  
-  
-- ![example 2](images/sample 2.png)  
+
+![Sample 1](images/sample%201.png)
+![Sample 2](images/sample%202.png)
+
+## Hugging Face Demo
+
+Try out the model in the live demo: [Phi-2 QLoRA Demo](https://huggingface.co/spaces/Rakavi12/Phi-2-Qlora)
